@@ -1,0 +1,4 @@
+export const FETCHED_FB_DETAILS = 'FETCHED_FB_DETAILS';
+
+
+export const BASE_URL = `http://YOUR_LOCAL_IP_ADDRESS:9000`;
